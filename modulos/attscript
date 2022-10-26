@@ -71,7 +71,7 @@ fun_atts () {
 
 echo -e "                              \033[1;31mDANIELMTX\033[1;36m"
 
-echo -e "   nzx on !!" | figlet
+echo -e "   SSH-PLUS !!" | figlet
 
 echo " "
 
